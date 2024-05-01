@@ -1,0 +1,59 @@
+.box {
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-bottom: 10px;
+  }
+body{
+	/* color: white; */
+	background-repeat: no-repeat !important;
+	/* background-size: cover; */
+}
+.container{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.container h2{
+	display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+.container h4{
+	display: flex;
+    justify-content: center;
+}
+.form-control{
+	width: 100px !important;
+	margin-left :10px;
+}
+.form-group{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.column{
+	margin-left: 165px;
+}
+.createBtn{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 3rem;
+}
+
+.calc{
+	display: flex;
+	justify-content: space-around;
+}
+.func{
+	display: flex;
+	align-items: center;
+	padding: 0 !important;	
+}
+#operation{
+	margin-left :10px;
+	width: auto !important;
+}
+.calculateBtn{
+	margin-left: 70px;
+    margin-top: 20px;
+}
