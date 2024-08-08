@@ -23,7 +23,7 @@ A web-based matrix calculator built using **HTML**, **CSS**, and **ReactJS**. Th
 
 1. **Clone the repository**:
 
-   git clone https://github.com/yourusername/matrix-calculator.git
+   git clone https://github.com/dikshaaarajj/matrix-calculator.git
   
 2. **Navigate to the project directory**:
    
